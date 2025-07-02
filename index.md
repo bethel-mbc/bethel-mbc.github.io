@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Sharing the Good News!
 ---
 
 Hello World
